@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "np-reading-time",
+    "name": "Reading Time Badge",
+    "author": "News Pigeon",
+    "description": "Prepends an estimated reading-time badge to the top of the reader view.",
+    "repo": "tanaso/newspigeon-reading-time"
+  }
+]
